@@ -30,6 +30,7 @@ To run this project locally, create a `.env` file in the root directory and add:
 
 ```env
 VITE_OPENAI_API_KEY=your_openai_api_key
+```
 
 ---
 
